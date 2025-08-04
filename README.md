@@ -23,3 +23,25 @@ A simple and production-ready Docker setup for running **WordPress**, **MySQL**,
 ```bash
 git clone https://github.com/JinalSolanki52/Wordpress-Docker.git
 cd wordpress-docker
+```
+
+### 2. SetUp Environment Variables
+
+```bash
+nano .env
+```
+
+### 3. Start the Containers
+
+```bash
+docker-compose up -d
+```
+
+### 🌐 Access
+
+| Service    | URL                                                                          |
+| ---------- | ---------------------------------------------------------------------------- |
+| WordPress  | [https://wordpress.example.com](https://wordpress.example.com)                         |
+| phpMyAdmin | [https://wordpress.example.com/phpmyadmin/](https://wordpress.example.com/phpmyadmin/) |
+
+⚠️ Use https:// to avoid SSL errors.
