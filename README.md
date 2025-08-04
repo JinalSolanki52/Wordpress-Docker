@@ -45,3 +45,13 @@ docker-compose up -d
 | phpMyAdmin | [https://wordpress.example.com/phpmyadmin/](https://wordpress.example.com/phpmyadmin/) |
 
 ⚠️ Use https:// to avoid SSL errors.
+
+
+### 📸 Screenshots 
+WordPress
+<img width="783" height="640" alt="Screen Shot 2025-08-04 at 12 14 53 PM" src="https://github.com/user-attachments/assets/488567e0-1b00-419d-8c81-22c94c9e47a0" />
+
+phpmydmin
+<img width="778" height="454" alt="Screen Shot 2025-08-04 at 12 17 04 PM" src="https://github.com/user-attachments/assets/98b29053-e672-4b9b-97b2-715228c5bdf6" />
+
+
